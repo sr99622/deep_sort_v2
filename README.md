@@ -23,7 +23,7 @@ identical to the original deep_sort program.
 Model development and training code has been omitted from this repository, it is only
 concerned with run time functionality.
 
-## package versions used:
+package versions used:
 <ul>
 <li>opencv-python 4.4.0.42
 <li>tensorflow 2.6.0
