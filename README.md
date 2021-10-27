@@ -21,7 +21,8 @@ been streamlined to reduce the code base, but the underlying functionality shoul
 identical to the original deep_sort program.
 
 Model development and training code has been omitted from this repository, it is only
-concerned with run time functionality.
+concerned with run time functionality.  It is necessary to use a deprecated version
+of the sklearn package (0.0) based on scikit-learn 0.22.2
 
 ## Citing DeepSORT
 
