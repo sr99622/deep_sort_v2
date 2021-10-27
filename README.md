@@ -12,8 +12,9 @@ tensorflow.  This is accomplished using the convert.py script included.  You wil
 to get the original format model from the nwojke/deep_sort repository to test the 
 script.  The final v2 saved_model format is included with this repository.
 
-The image directory and detections file for testing are included here in a zipped 
-format.  You will need to unzip the MOT16.zip file to run the test.
+The test program is hard coded for a <a href="https://motchallenge.net/data/MOT16/">MOT 16 Benchmark</a>
+sequence. We assume resources have been extracted to the repository root directory and the MOT16 
+benchmark data is in ./MOT16:
 
 The v2model.py script will run the deep_sort test on the MOT16 files.  The script has
 been streamlined to reduce the code base, but the underlying functionality should be
