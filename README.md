@@ -18,7 +18,7 @@ benchmark data is in ./MOT16:
 
 The v2model.py script will run the deep_sort test on the MOT16 files.  The script has
 been streamlined to reduce the code base, but the underlying functionality should be
-nearly identical to the original deep_sort program.
+identical to the original deep_sort program.
 
 Model development and training code has been omitted from this repository, it is only
 concerned with run time functionality.
