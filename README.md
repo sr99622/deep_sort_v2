@@ -23,7 +23,8 @@ identical to the original deep_sort program.
 Model development and training code has been omitted from this repository, it is only
 concerned with run time functionality.
 
-<ul>package versions used:
+##package versions used:
+<ul>
 <li>opencv-python 4.4.0.42
 <li>tensorflow 2.6.0
 <li>numpy 1.19.5
@@ -31,6 +32,7 @@ concerned with run time functionality.
 <li>scikit-learn 0.22.2
 <li>scipy 1.4.1
 </ul>
+
 ## Citing DeepSORT
 
 If you find this repo useful in your research, please consider citing the following papers:
