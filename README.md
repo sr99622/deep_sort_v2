@@ -21,8 +21,15 @@ been streamlined to reduce the code base, but the underlying functionality shoul
 identical to the original deep_sort program.
 
 Model development and training code has been omitted from this repository, it is only
-concerned with run time functionality.  It is necessary to use a deprecated version
-of the sklearn package (0.0) based on scikit-learn 0.22.2
+concerned with run time functionality.
+
+package versions used:
+opencv-python 4.4.0.42
+tensorflow 2.6.0
+numpy 1.19.5
+sklearn 0.0
+scikit-learn 0.22.2
+scipy 1.4.1
 
 ## Citing DeepSORT
 
