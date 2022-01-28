@@ -33,6 +33,9 @@ package versions used:
 <li>scipy 1.4.1
 </ul>
 
+Revised: Added utils/linear_assignment.py to replace deprecated function in sklearn
+Added interface.py for C++ link
+
 ## Citing DeepSORT
 
 If you find this repo useful in your research, please consider citing the following papers:
