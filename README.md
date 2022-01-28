@@ -34,6 +34,7 @@ package versions used:
 </ul>
 
 Revised: Added utils/linear_assignment.py to replace deprecated function in sklearn
+
 Added interface.py for C++ link
 
 ## Citing DeepSORT
